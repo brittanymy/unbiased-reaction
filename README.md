@@ -2,6 +2,7 @@
 # Express.js Challenge: Note Taker
 
 ## Description
+Note Taker allows small business owners to write and save work related notes. This gives the small business owner the opportunity to organize their thoughts and keep track of tasks they need to complete. Technologies used: HTML, CSS, JavaScript, node, express, and heroku. 
 
 ## User Story
 AS A small business owner
@@ -24,5 +25,11 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ### ToDo
+-   Deploy to heroku (DONE)
+-   Fix routes between index HTML & note HTML (DONE)
 
 ## Deployed link & Screenshot
+https://hidden-depths-71381.herokuapp.com/
+
+![Note-Taker Homepage](public/assets/images/Notetaker-home.png)
+![Note-Taker Notes](public/assets/images/Notetaker-notes.png)
