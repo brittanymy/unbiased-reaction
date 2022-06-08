@@ -28,7 +28,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 -   Deploy to heroku (DONE)
 -   Fix routes between index HTML & note HTML (DONE)
 
-## Deployed link & Screenshot
+## Deployed link & Screenshots
 https://hidden-depths-71381.herokuapp.com/
 
 ![Note-Taker Homepage](public/assets/images/Notetaker-home.png)
